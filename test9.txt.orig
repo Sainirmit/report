@@ -3,5 +3,9 @@ Good morning
 How are you?
 Im great
 What about you?
+<<<<<<< HEAD
+ Good evening
+=======
  Im great 
 About to go study
+>>>>>>> dev
